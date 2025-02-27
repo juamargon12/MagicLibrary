@@ -38,6 +38,7 @@ public class MagicLibrary {
 	public static void main(String[] args) {
 		
 		log.info("Hola soy Juan ejecutando la aplicacion");
+		log.info("Esto es una prueba del paso 31 de la practica 2");
 		log.info("Arranco la aplicaci�n y creo el controlador para manejar entidades desde la interfaz");
 		log.log(Level.INFO, "Arranco la aplicaci�n y creo el controlador para manejar entidades desde la interfaz");
 
